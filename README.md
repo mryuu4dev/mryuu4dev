@@ -3,5 +3,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mryuu4dev&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🔥 My Repo List
+# 🔥 My Repo Lists:
 🚀 [My research stack](https://github.com/stars/mryuu4dev/lists/my-research-stack)<br>
